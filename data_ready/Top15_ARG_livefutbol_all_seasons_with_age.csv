@@ -1,0 +1,91 @@
+player,goals,pen_goals,season,country,goal_rank,team,age
+Marco Rubén,21.0,5,2015.0,ARG,1.0,Rosario Central,29.0
+Leandro Fernández,15.0,4,2015.0,ARG,2.0,Godoy Cruz,24.0
+Claudio Bieler,14.0,7,2015.0,ARG,3.0,Quilmes,33.0
+Alejandro Gagliardi,11.0,1,2015.0,ARG,4.0,Nueva Chicago,26.0
+Fernando Cavenaghi,11.0,0,2015.0,ARG,5.0,River Plate,32.0
+Maximiliano Rodríguez,10.0,2,2015.0,ARG,6.0,Newell Old Boys,34.0
+Jonathan Calleri,10.0,0,2015.0,ARG,7.0,Boca Juniors,22.0
+Martín Cauteruccio,10.0,0,2015.0,ARG,8.0,San Lorenzo,28.0
+Ignacio Malcorra,9.0,3,2015.0,ARG,9.0,Unión Santa Fe,28.0
+Enrique Triverio,9.0,2,2015.0,ARG,10.0,Unión Santa Fe,27.0
+Marcelo Larrondo,9.0,1,2015.0,ARG,11.0,Tigre,28.0
+Ramón Ábila,9.0,0,2015.0,ARG,12.0,Huracán,25.0
+Lucas Albertengo,9.0,0,2015.0,ARG,13.0,Independiente,24.0
+José Sand,9.0,0,2015.0,ARG,14.0,Aldosivi,35.0
+Gervasio Núñez,8.0,4,2015.0,ARG,15.0,Sarmiento Junín,29.0
+Darío Benedetto,21.0,1,2017.0,ARG,1.0,Boca Juniors,27.0
+Sebastián Driussi,17.0,2,2017.0,ARG,2.0,River Plate,21.0
+José Sand,15.0,6,2017.0,ARG,3.0,Lanús,37.0
+Mariano Pavone,13.0,3,2017.0,ARG,4.0,Vélez Sarsfield,35.0
+Carlos Luna,12.0,5,2017.0,ARG,5.0,Tigre,35.0
+Lucas Alario,12.0,3,2017.0,ARG,6.0,River Plate,25.0
+Ignacio Scocco,12.0,3,2017.0,ARG,7.0,Newell Old Boys,32.0
+Nicolás Blandi,11.0,2,2017.0,ARG,8.0,San Lorenzo,27.0
+Emiliano Rigoni,11.0,0,2017.0,ARG,9.0,Independiente,24.0
+Fernando Zampedri,11.0,0,2017.0,ARG,10.0,Atlético Tucumán,29.0
+Gustavo Bou,10.0,2,2017.0,ARG,11.0,Racing Club,27.0
+Fernando Coniglio,10.0,1,2017.0,ARG,12.0,Olimpo Bahía Blanca,26.0
+Darío Cvitanich,9.0,3,2017.0,ARG,13.0,Banfield,33.0
+Sebastián Palacios,9.0,2,2017.0,ARG,14.0,Talleres Córdoba,25.0
+Javier Correa,9.0,1,2017.0,ARG,15.0,Godoy Cruz,23.0
+Santiago García,17.0,2,2018.0,ARG,1.0,Godoy Cruz,28.0
+Sebastián Ribas,13.0,1,2018.0,ARG,2.0,Patronato Paraná,30.0
+Lautaro Martínez,13.0,0,2018.0,ARG,3.0,Racing Club,21.0
+Franco Soldano,11.0,2,2018.0,ARG,4.0,Unión Santa Fe,24.0
+Ignacio Scocco,10.0,3,2018.0,ARG,5.0,River Plate,33.0
+Ramón Ábila,10.0,0,2018.0,ARG,6.0,Huracán,28.0
+Javier Correa,10.0,0,2018.0,ARG,7.0,Godoy Cruz,24.0
+Fernando Márquez,10.0,0,2018.0,ARG,8.0,Defensa Justicia,27.0
+Darío Cvitanich,9.0,4,2018.0,ARG,9.0,Banfield,34.0
+Darío Benedetto,9.0,2,2018.0,ARG,10.0,Boca Juniors,28.0
+Nicolás Blandi,9.0,1,2018.0,ARG,11.0,San Lorenzo,28.0
+Ignacio Pussetto,9.0,1,2018.0,ARG,12.0,Huracán,23.0
+Cristian Lema,8.0,2,2018.0,ARG,13.0,Belgrano Córdoba,30.0
+Mauro Zárate,8.0,1,2018.0,ARG,14.0,Vélez Sarsfield,31.0
+Nicolás Fernández,8.0,0,2018.0,ARG,15.0,Defensa Justicia,22.0
+Mateo Retegui,19.0,6,2022.0,ARG,1.0,Tigre,23.0
+Franco Cristaldo,14.0,8,2022.0,ARG,2.0,Huracán,
+Enzo Copetti,11.0,0,2022.0,ARG,3.0,Racing Club,24.0
+Adam Bareiro,10.0,3,2022.0,ARG,4.0,San Lorenzo,26.0
+Miguel Borja,9.0,0,2022.0,ARG,5.0,River Plate,29.0
+Renzo López,9.0,0,2022.0,ARG,6.0,Central Córdoba Sd,
+Leandro Fernández,8.0,2,2022.0,ARG,7.0,Independiente,31.0
+Ramón Ábila,8.0,1,2022.0,ARG,8.0,Colón Santa Fe,32.0
+Blas Armoa,8.0,0,2022.0,ARG,9.0,Tigre,24.0
+Cristian Colmán,8.0,0,2022.0,ARG,10.0,Arsenal Sarandí,28.0
+Luis Rodríguez,7.0,3,2022.0,ARG,11.0,Colón Santa Fe,31.0
+Mauro Boselli,7.0,2,2022.0,ARG,12.0,Estudiantes,41.0
+Ramiro Carrera,7.0,2,2022.0,ARG,13.0,Atlético Tucumán,29.0
+Alejandro Martínez,6.0,4,2022.0,ARG,14.0,Central Córdoba Sd,
+Martín Cauteruccio,6.0,2,2022.0,ARG,15.0,Aldosivi,35.0
+Franco Jara,13.0,0,2024.0,ARG,1.0,Belgrano Córdoba,36.0
+Braian Romero,12.0,2,2024.0,ARG,2.0,Vélez Sarsfield,33.0
+Miguel Borja,11.0,3,2024.0,ARG,3.0,River Plate,31.0
+Mateo Pellegrino,10.0,4,2024.0,ARG,4.0,Platense,24.0
+Milton Giménez,10.0,1,2024.0,ARG,5.0,Banfield,30.0
+Claudio Aquino,9.0,3,2024.0,ARG,6.0,Vélez Sarsfield,40.0
+Gabriel Ávalos,9.0,2,2024.0,ARG,7.0,Independiente,
+Jonathan Herrera,9.0,2,2024.0,ARG,8.0,Deportivo Riestra,35.0
+Salomón Rodríguez,8.0,1,2024.0,ARG,9.0,Godoy Cruz,34.0
+Walter Bou,7.0,1,2024.0,ARG,10.0,Lanús,31.0
+Facundo Colidio,7.0,1,2024.0,ARG,11.0,River Plate,26.0
+Miguel Merentiel,7.0,1,2024.0,ARG,12.0,Boca Juniors,28.0
+Bruno Barticciotto,7.0,0,2024.0,ARG,13.0,Talleres Córdoba,23.0
+Guido Carrillo,7.0,0,2024.0,ARG,14.0,Estudiantes,33.0
+Adrián Martínez,7.0,0,2024.0,ARG,15.0,Racing Club,
+Gabriel Ávalos,12.0,2,2025.0,ARG,1.0,Independiente,
+Miguel Merentiel,11.0,1,2025.0,ARG,2.0,Boca Juniors,29.0
+Rodrigo Castillo,11.0,0,2025.0,ARG,3.0,Gimnasia La Plata,30.0
+Jonathan Herrera,10.0,2,2025.0,ARG,4.0,Deportivo Riestra,36.0
+Facundo Bruera,10.0,0,2025.0,ARG,5.0,Barracas Central,27.0
+Ignacio Russo,10.0,0,2025.0,ARG,6.0,Tigre,24.0
+Adrián Martínez,9.0,1,2025.0,ARG,7.0,Racing Club,
+Milton Giménez,9.0,0,2025.0,ARG,8.0,Boca Juniors,31.0
+Braian Romero,8.0,1,2025.0,ARG,9.0,Vélez Sarsfield,34.0
+Juan Miritello,8.0,0,2025.0,ARG,10.0,Defensa Justicia,26.0
+Nicolás Fernández,8.0,0,2025.0,ARG,11.0,Belgrano Córdoba,29.0
+Ronaldo Martínez,8.0,0,2025.0,ARG,12.0,Platense,
+Tomás Molina,8.0,0,2025.0,ARG,13.0,Argentinos Juniors,30.0
+Andrés Vombergar,7.0,4,2025.0,ARG,14.0,San Lorenzo,31.0
+Ángel Di María,7.0,4,2025.0,ARG,15.0,Rosario Central,37.0
